@@ -62,7 +62,7 @@ if 's_answered' not in st.session_state: st.session_state.s_answered = False
 # ==========================================
 # 4. 메인 화면 및 사이드바 UI
 # ==========================================
-st.title("🏫 잠길고 2학년 영어 I")
+st.title("🏫 잠일고 2학년 영어 I")
 st.header("오늘의 퀴즈 챌린지 🔥")
 
 # 사이드바 구성
